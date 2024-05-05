@@ -1,0 +1,48 @@
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\GREEN GOOD.exe
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\MySql.Data.dll
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\Guna.UI2.dll
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\GREEN GOOD.exe.config
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\Google.Protobuf.dll
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\NuGet.Frameworks.dll
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\System.Buffers.dll
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\System.IO.Pipelines.dll
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\System.Memory.dll
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\ZstdSharp.dll
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\Google.Protobuf.pdb
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\Google.Protobuf.xml
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\MySql.Data.xml
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\System.Buffers.xml
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\System.IO.Pipelines.xml
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\System.Memory.xml
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\obj\Debug\GREEN GOOD.csproj.AssemblyReference.cache
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\obj\Debug\GREEN_GOOD.icon_user.resources
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\obj\Debug\GREEN_GOOD.Properties.Resources.resources
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\obj\Debug\GREEN GOOD.csproj.GenerateResource.cache
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\obj\Debug\GREEN GOOD.csproj.CoreCompileInputs.cache
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\obj\Debug\GREEN GOOD.csproj.CopyComplete
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\obj\Debug\GREEN GOOD.exe
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\obj\Debug\GREEN GOOD.pdb
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\bin\Debug\GREEN GOOD.pdb
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\obj\Debug\GREEN_GOOD.Fournisseurs.resources
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\obj\Debug\GREEN_GOOD.Form2.resources
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\obj\Debug\GREEN_GOOD.Form3.resources
+C:\Users\59069\Desktop\Ap\Semestre 4\GREEN GOOD\obj\Debug\GREEN_GOOD.Historique.resources
